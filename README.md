@@ -1,3 +1,4 @@
+```
 # Docker-Installation-Guide
 Docker installtion on ubuntu
 1.sudo apt update
@@ -90,6 +91,7 @@ Netowrk configuration
 Ref=https://www.makeuseof.com/configure-static-ip-address-settings-ubuntu-22-04/
 Ref=https://www.liquidweb.com/kb/how-to-install-and-configure-nmcli/
 ===========================================
+```
 
 
 
